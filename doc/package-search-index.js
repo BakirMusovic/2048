@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"BakirMusovic2048","l":"gui"},{"m":"BakirMusovic2048","l":"konzola"},{"m":"BakirMusovic2048","l":"logika"}];updateSearchResults();
